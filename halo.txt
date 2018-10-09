@@ -1,1 +1,2 @@
-halo word
+halo world
+welcome to Study club UMBY
